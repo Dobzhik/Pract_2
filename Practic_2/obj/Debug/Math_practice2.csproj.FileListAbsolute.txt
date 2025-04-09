@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\Math_practice2\obj\Debug\Math_practice2.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Math_practice2\obj\Debug\Math_practice2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Math_practice2\bin\Debug\Math_practice2.exe.config
+C:\Users\Пользователь\source\repos\Math_practice2\bin\Debug\Math_practice2.exe
+C:\Users\Пользователь\source\repos\Math_practice2\bin\Debug\Math_practice2.pdb
+C:\Users\Пользователь\source\repos\Math_practice2\obj\Debug\Math_practice2.exe
+C:\Users\Пользователь\source\repos\Math_practice2\obj\Debug\Math_practice2.pdb
+C:\Users\dobzhik\Downloads\Math_Practice2-main\Practic_2\bin\Debug\Math_practice2.exe.config
+C:\Users\dobzhik\Downloads\Math_Practice2-main\Practic_2\bin\Debug\Math_practice2.exe
+C:\Users\dobzhik\Downloads\Math_Practice2-main\Practic_2\bin\Debug\Math_practice2.pdb
+C:\Users\dobzhik\Downloads\Math_Practice2-main\Practic_2\obj\Debug\Math_practice2.csproj.AssemblyReference.cache
+C:\Users\dobzhik\Downloads\Math_Practice2-main\Practic_2\obj\Debug\Math_practice2.csproj.CoreCompileInputs.cache
+C:\Users\dobzhik\Downloads\Math_Practice2-main\Practic_2\obj\Debug\Math_practice2.exe
+C:\Users\dobzhik\Downloads\Math_Practice2-main\Practic_2\obj\Debug\Math_practice2.pdb
